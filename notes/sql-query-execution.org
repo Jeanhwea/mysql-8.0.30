@@ -1,0 +1,8 @@
+#+TITLE: SQL 执行过程
+#+AUTHOR: Jinghui Hu
+#+EMAIL: hujinghui@buaa.edu.cn
+#+DATE: <2022-11-05 Sat 22:27:00>
+
+[[file:../static/image/2022/1105/222408.png]]
+
+* 宏观流程

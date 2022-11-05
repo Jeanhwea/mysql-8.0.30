@@ -5,5 +5,11 @@
 #+SETUPFILE: ~/.emacs.d/site-lisp/org-html-themes/setup/theme-readtheorg-local.setup
 
 
+* 前言
+本项目是阅读 MySQL 8.0.30 源代码的笔记
+
+[[file:static/image/2022/1105/222408.png]]
+
+
 * 参考链接
 1. [[https://dev.mysql.com/doc/dev/mysql-server/8.0.30/PAGE_SQL_EXECUTION.html][MySQL Dev]]
